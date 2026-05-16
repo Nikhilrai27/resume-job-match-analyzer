@@ -1,0 +1,63 @@
+Dennis Moore
+dennis@moore.com
+•
+(573) 482-9164
+•
+linkedin.com/in/dennis-moore
+•
+@dennis.moore
+•
+github.com/dennismoore
+Machine Learning Intern
+Dynamic Machine Learning Intern with 3+ years of experience in developing predictive models and optimizing algorithms. Proficient in Python and TensorFlow, with a proven track record of reducing data processing time by 30%. Specializes in natural language processing and adept at leading cross-functional teams to drive innovation.
+WORK EXPERIENCE
+Machine Learning Intern
+04/2024 – Present
+Clearview Technologies
+Led a team to develop a predictive analytics model that increased customer retention by 15%, utilizing advanced neural networks and real-time data processing.
+Implemented a machine learning pipeline that reduced model training time by 40%, leveraging cloud-based distributed computing and automated hyperparameter tuning.
+Collaborated with cross-functional teams to integrate AI-driven insights into business strategies, resulting in a 20% boost in quarterly revenue.
+Data Scientist
+10/2023 – 03/2024
+StarStream Solutions
+Optimized a recommendation system using collaborative filtering, improving recommendation accuracy by 25% and enhancing user engagement metrics.
+Developed a natural language processing tool to automate customer feedback analysis, reducing manual processing time by 60% and improving response accuracy.
+Conducted workshops to train team members on the latest machine learning frameworks, fostering a culture of continuous learning and innovation.
+Machine Learning Engineer
+05/2023 – 09/2023
+Stellar Solutions
+Assisted in the development of a supervised learning model that improved product defect detection rates by 30%, using image recognition techniques.
+Analyzed large datasets to identify key performance indicators, providing actionable insights that informed strategic decision-making processes.
+Contributed to the deployment of a scalable data preprocessing pipeline, enhancing data quality and reducing preprocessing time by 20%.
+SKILLS & COMPETENCIES
+Deep Learning Architecture Design and Implementation
+Advanced Python Programming for ML/AI
+Natural Language Processing (NLP) and Transformer Models
+Data Preprocessing and Feature Engineering
+TensorFlow and PyTorch Expertise
+Statistical Analysis and Hypothesis Testing
+Machine Learning Model Deployment and MLOps
+Critical Thinking and Problem-Solving
+Collaborative Research and Development
+Clear Technical Communication and Presentation
+Adaptive Learning and Continuous Skill Acquisition
+Quantum Machine Learning Algorithms
+Ethical AI and Responsible ML Development
+Edge AI and Federated Learning Implementation
+COURSES / CERTIFICATIONS
+Professional Certificate in Machine Learning and Artificial Intelligence from edX
+10/2023
+edX
+Deep Learning Specialization Certificate from Coursera
+10/2022
+Coursera
+Advanced Machine Learning Specialization from Coursera
+10/2021
+University of Washington
+Education
+Bachelor of Science in Machine Learning
+2016 - 2020
+Carnegie Mellon University
+Pittsburgh, PA
+Machine Learning
+Data Science
