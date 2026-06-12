@@ -6,5 +6,3 @@ def extract_text_from_pdf(path):
             text+=page.extract_text()
 
     return text.lower()
-
-    
