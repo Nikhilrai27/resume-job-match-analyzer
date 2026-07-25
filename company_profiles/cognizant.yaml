@@ -1,0 +1,23 @@
+{
+  "slug": "cognizant",
+  "display_name": "Cognizant",
+  "sector": "Digital Engineering",
+  "focus_skills": ["python", "sql", "aws", "microservices", "react", "java", "api"],
+  "preferred_certifications": ["aws developer associate", "oracle java certification"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education", "Projects"],
+  "preferred_keywords": ["digital engineering", "product", "full stack"],
+  "minimum_experience_years": 2,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.2,
+    "education_fit": 0.1,
+    "project_relevance": 0.15,
+    "certification_boost": 0.1,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "rest": 1.1,
+    "frontend": 1.0,
+    "scalability": 1.4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "wipro",
+  "display_name": "Wipro",
+  "sector": "IT Services",
+  "focus_skills": ["python", "java", "sql", "devops", "docker", "kubernetes", "linux"],
+  "preferred_certifications": ["cka", "azure administrator"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education", "Certifications"],
+  "preferred_keywords": ["automation", "infra", "platform engineering"],
+  "minimum_experience_years": 2,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.2,
+    "education_fit": 0.1,
+    "project_relevance": 0.1,
+    "certification_boost": 0.15,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "sre": 1.4,
+    "ci/cd": 1.4,
+    "automation": 1.3
+  }
+}

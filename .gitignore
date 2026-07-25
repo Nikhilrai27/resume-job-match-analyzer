@@ -1,3 +1,12 @@
 venv/
+.venv/
 __pycache__/
+*.pyc
 .env
+.storage/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+.next/

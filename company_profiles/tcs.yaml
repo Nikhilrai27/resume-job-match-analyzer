@@ -1,0 +1,23 @@
+{
+  "slug": "tcs",
+  "display_name": "TCS",
+  "sector": "IT Services",
+  "focus_skills": ["python", "java", "sql", "aws", "microservices", "git", "docker"],
+  "preferred_certifications": ["aws certified developer", "oracle java certification"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education", "Projects"],
+  "preferred_keywords": ["banking", "enterprise", "delivery excellence"],
+  "minimum_experience_years": 2,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.2,
+    "education_fit": 0.1,
+    "project_relevance": 0.15,
+    "certification_boost": 0.1,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "agile": 1.2,
+    "client delivery": 1.4,
+    "cloud migration": 1.5
+  }
+}

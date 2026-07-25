@@ -1,0 +1,23 @@
+{
+  "slug": "infosys",
+  "display_name": "Infosys",
+  "sector": "IT Consulting",
+  "focus_skills": ["python", "sql", "azure", "data engineering", "spark", "git", "api"],
+  "preferred_certifications": ["azure data engineer associate", "snowflake core"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education"],
+  "preferred_keywords": ["digital transformation", "analytics", "consulting"],
+  "minimum_experience_years": 2,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.2,
+    "education_fit": 0.1,
+    "project_relevance": 0.15,
+    "certification_boost": 0.1,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "data pipeline": 1.3,
+    "etl": 1.2,
+    "stakeholder": 1.1
+  }
+}

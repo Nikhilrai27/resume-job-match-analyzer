@@ -1,0 +1,23 @@
+{
+  "slug": "hcl",
+  "display_name": "HCL",
+  "sector": "Engineering Services",
+  "focus_skills": ["python", "c++", "sql", "aws", "linux", "networking", "automation"],
+  "preferred_certifications": ["aws solutions architect", "red hat certified engineer"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education"],
+  "preferred_keywords": ["operations", "support", "reliability"],
+  "minimum_experience_years": 2,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.25,
+    "education_fit": 0.1,
+    "project_relevance": 0.1,
+    "certification_boost": 0.1,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "incident": 1.2,
+    "sla": 1.2,
+    "monitoring": 1.4
+  }
+}

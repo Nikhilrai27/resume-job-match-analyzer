@@ -7,3 +7,8 @@ pillow==12.2.0
 pycparser==3.0
 pypdfium2==5.8.0
 typing_extensions==4.15.0
+openai>=1.0.0
+google-genai>=1.0.0
+streamlit>=1.35.0
+requests>=2.31.0
+python-docx>=1.1.0

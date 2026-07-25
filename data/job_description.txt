@@ -1,0 +1,4 @@
+We are hiring a Machine Learning Engineer to build and deploy production NLP systems.
+Required: strong Python skills, hands-on experience with TensorFlow or PyTorch,
+feature engineering, data preprocessing, model deployment, MLOps, SQL, Git, and Docker.
+Preferred: experience working with transformer models and large language models.

@@ -1,0 +1,23 @@
+{
+  "slug": "ibm",
+  "display_name": "IBM",
+  "sector": "Cloud and AI",
+  "focus_skills": ["python", "sql", "cloud", "kubernetes", "red hat", "ai", "mlops"],
+  "preferred_certifications": ["ibm ai engineering", "red hat openshift administration"],
+  "required_sections": ["Summary", "Skills", "Experience", "Education", "Certifications"],
+  "preferred_keywords": ["hybrid cloud", "watson", "automation"],
+  "minimum_experience_years": 3,
+  "ats_weights": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.2,
+    "education_fit": 0.1,
+    "project_relevance": 0.1,
+    "certification_boost": 0.15,
+    "formatting": 0.1
+  },
+  "keywords_by_weight": {
+    "aiops": 1.5,
+    "openshift": 1.5,
+    "mlops": 1.4
+  }
+}
